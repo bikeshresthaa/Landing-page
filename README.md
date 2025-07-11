@@ -1,1 +1,1 @@
-# Landing-page
+This is a simple landing page i created as per the reference provided by TOP.It includes the reference image and the fonts used. The structure of the page is present in index.html file which is styled using the styles.css file.
